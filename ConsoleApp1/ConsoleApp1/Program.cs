@@ -8,5 +8,9 @@ namespace ConsoleApp1
 {
 	class Program
 	{
+		public statis void Main()
+		{
+			Console.WriteLine("Some logic");
+		}
 	}
 }

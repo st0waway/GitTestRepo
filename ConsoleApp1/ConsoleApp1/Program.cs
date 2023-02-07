@@ -6,6 +6,7 @@
 		{
 			Console.WriteLine("Hello, World!");
 			Console.WriteLine("Adding another logic");
+			Console.WriteLine("Adding some logic");
 		}
 	}
 }
